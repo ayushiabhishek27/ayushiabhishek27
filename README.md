@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ayushi 👋
 
-<!--
-**ayushiabhishek27/ayushiabhishek27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💡 Interested in Frontend & Programming   
 
-Here are some ideas to get you started:
+## Skills
+- C, C++, Java, Python
+- HTML
+- CSS
+- JavaScript
+- Data Structures
+- Computer Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 University Network Design  
+🔹 Valentine Website  
+🔹 DSA Practice Repository  
+
+## Contact
+📧 ayushi270105@gmail.com
